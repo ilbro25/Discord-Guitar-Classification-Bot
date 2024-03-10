@@ -69,4 +69,4 @@ async def check(ctx):
         await ctx.send('Вложений не было')
 
 
-bot.run("MTE1MjkwNzMyMTAzNTQ2ODg3MQ.GjUUtB.161Q5ABXU-OgvhxM2p51trn5jzVpR3c_ARo0j0")
+bot.run("TOKEN")
